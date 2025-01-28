@@ -1,0 +1,14 @@
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\bin\Debug\net9.0\calculatorAPP.exe
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\bin\Debug\net9.0\calculatorAPP.deps.json
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\bin\Debug\net9.0\calculatorAPP.runtimeconfig.json
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\bin\Debug\net9.0\calculatorAPP.dll
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\bin\Debug\net9.0\calculatorAPP.pdb
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.AssemblyInfo.cs
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.dll
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\refint\calculatorAPP.dll
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.pdb
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\calculatorAPP.genruntimeconfig.cache
+D:\Documentos\Cursos\Tecnologia\Cursos Livres Avulsos\QA\calculatorAPP\obj\Debug\net9.0\ref\calculatorAPP.dll
